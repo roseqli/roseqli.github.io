@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rose Q. Li</title>
+    <link>https://roseq.li/</link>
+    <description>Recent content on Rose Q. Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Feb 2021 18:25:22 +0530</lastBuildDate><atom:link href="https://roseq.li/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My little pony</title>
+      <link>https://roseq.li/portfolio/little_pony/</link>
+      <pubDate>Sun, 14 Feb 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://roseq.li/portfolio/little_pony/</guid>
+      <description>&lt;p&gt;Mom and I made two little ponies. Which one do you preper?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sleep with my kittens</title>
+      <link>https://roseq.li/portfolio/sleep_with_kittens/</link>
+      <pubDate>Sat, 26 Dec 2020 19:41:01 +0530</pubDate>
+      
+      <guid>https://roseq.li/portfolio/sleep_with_kittens/</guid>
+      <description>&lt;p&gt;I wanna sleep with my kittens, but the room is too little&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Halloween pumpkin</title>
+      <link>https://roseq.li/portfolio/halloween_pumpkin/</link>
+      <pubDate>Thu, 22 Oct 2020 19:44:32 +0530</pubDate>
+      
+      <guid>https://roseq.li/portfolio/halloween_pumpkin/</guid>
+      <description>&lt;p&gt;My halloween pumpkin&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Littles</title>
+      <link>https://roseq.li/portfolio/little_loverly/</link>
+      <pubDate>Mon, 05 Oct 2020 19:50:47 +0530</pubDate>
+      
+      <guid>https://roseq.li/portfolio/little_loverly/</guid>
+      <description>&lt;p&gt;Little loverly&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
