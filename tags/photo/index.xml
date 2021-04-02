@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photo on Rose Q. Li</title>
+    <link>https://roseq.li/tags/photo/</link>
+    <description>Recent content in photo on Rose Q. Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2020 19:50:47 +0530</lastBuildDate><atom:link href="https://roseq.li/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Littles</title>
+      <link>https://roseq.li/portfolio/little_loverly/</link>
+      <pubDate>Mon, 05 Oct 2020 19:50:47 +0530</pubDate>
+      
+      <guid>https://roseq.li/portfolio/little_loverly/</guid>
+      <description>&lt;p&gt;Little loverly&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

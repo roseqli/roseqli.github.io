@@ -28,7 +28,37 @@
   </url>
   
   <url>
+    <loc>https://roseq.li/categories/</loc>
+    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/tags/lego/</loc>
+    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://roseq.li/portfolio/little_loverly/</loc>
+    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/tags/photo/</loc>
+    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/tags/</loc>
+    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/tags/toy/</loc>
+    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/categories/toy/</loc>
     <lastmod>2020-10-05T19:50:47+05:30</lastmod>
   </url>
   
@@ -40,14 +70,6 @@
   <url>
     <loc>https://roseq.li/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roseq.li/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://roseq.li/tags/</loc>
   </url>
   
 </urlset>
