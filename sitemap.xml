@@ -3,63 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://roseq.li/portfolio/little_pony/</loc>
-    <lastmod>2021-02-14T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roseq.li/portfolio/</loc>
-    <lastmod>2021-02-14T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roseq.li/</loc>
-    <lastmod>2021-02-14T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roseq.li/portfolio/sleep_with_kittens/</loc>
-    <lastmod>2020-12-26T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roseq.li/portfolio/halloween_pumpkin/</loc>
-    <lastmod>2020-10-22T19:44:32+05:30</lastmod>
+    <loc>https://roseq.li/2020/</loc>
+    <lastmod>2020-02-14T18:25:22+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://roseq.li/categories/</loc>
-    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+    <lastmod>2020-02-14T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://roseq.li/tags/lego/</loc>
-    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+    <loc>https://roseq.li/categories/drawing/</loc>
+    <lastmod>2020-02-14T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://roseq.li/portfolio/little_loverly/</loc>
-    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+    <loc>https://roseq.li/2020/little_pony/</loc>
+    <lastmod>2020-02-14T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://roseq.li/tags/photo/</loc>
-    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+    <loc>https://roseq.li/tags/play/</loc>
+    <lastmod>2020-02-14T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/</loc>
+    <lastmod>2020-02-14T18:25:22+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://roseq.li/tags/</loc>
-    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+    <lastmod>2020-02-14T18:25:22+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://roseq.li/tags/toy/</loc>
-    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+    <lastmod>2020-02-14T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/2019/</loc>
+    <lastmod>2019-10-22T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/tags/drawing/</loc>
+    <lastmod>2019-10-22T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/2019/halloween_pumpkin/</loc>
+    <lastmod>2019-10-22T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/tags/lego/</loc>
+    <lastmod>2019-10-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/2019/little_loverly/</loc>
+    <lastmod>2019-10-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/tags/photo/</loc>
+    <lastmod>2019-10-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://roseq.li/categories/toy/</loc>
-    <lastmod>2020-10-05T19:50:47+05:30</lastmod>
+    <lastmod>2019-10-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
@@ -70,6 +85,14 @@
   <url>
     <loc>https://roseq.li/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/2021/</loc>
+  </url>
+  
+  <url>
+    <loc>https://roseq.li/2021/sleep_with_kittens/</loc>
   </url>
   
 </urlset>
